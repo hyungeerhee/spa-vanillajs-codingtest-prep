@@ -1,2 +1,2 @@
-# finalCodingTest_template
-과제진행에 필요한 에셋을 포함한 템플릿입니다.
+# finalCodingTest
+필기전형(코딩테스트)을 대비하기 위한 Vanilla JavaScript 기반의 SPA 구현 과제 연습
